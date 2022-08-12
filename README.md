@@ -1,1 +1,1 @@
-# Exercicios realizados no hackerhank
+# Exercicios realizados no hackerrank
